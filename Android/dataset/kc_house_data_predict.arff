@@ -1,0 +1,21 @@
+@relation kchouse_price_predict
+
+@attribute date1 date "yyyyMMdd"
+@attribute price numeric
+@attribute bedrooms numeric
+@attribute bathrooms numeric
+@attribute sqft_living numeric
+@attribute sqft_lot numeric
+@attribute floors numeric
+@attribute waterfront numeric
+@attribute view numeric
+@attribute condition numeric
+@attribute grade numeric
+@attribute sqft_above numeric
+@attribute sqft_basement numeric
+@attribute yr_built date "yyyy"
+@attribute renovated {Y,N}
+
+@data
+20141013,221900,3,1,1180,5650,1,0,0,3,7,1180,0,1955,N
+20141209,538000,3,2.25,2570,7242,2,0,0,3,7,2170,400,1951,Y
