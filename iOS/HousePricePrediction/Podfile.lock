@@ -1,0 +1,37 @@
+PODS:
+  - CDAlertView (0.10.0)
+  - IQKeyboardManagerSwift (6.5.4)
+  - PickerView (0.4.0)
+  - SkyFloatingLabelTextField (3.7.0)
+  - SPPermissions/Core (5.0.9)
+  - SPPermissions/Location (5.0.9):
+    - SPPermissions/Core
+  - SPPermissions/Notification (5.0.9):
+    - SPPermissions/Core
+
+DEPENDENCIES:
+  - CDAlertView
+  - IQKeyboardManagerSwift
+  - PickerView
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SPPermissions/Location
+  - SPPermissions/Notification
+
+SPEC REPOS:
+  trunk:
+    - CDAlertView
+    - IQKeyboardManagerSwift
+    - PickerView
+    - SkyFloatingLabelTextField
+    - SPPermissions
+
+SPEC CHECKSUMS:
+  CDAlertView: ee6a87c90c4283c8d316d55633db1a6981f1cc51
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  PickerView: a736ea986d992aa3ef32423f475fdf3f3a0cf7d4
+  SkyFloatingLabelTextField: 4b46db0ab1ccde0919cded29c656e6b4805eda04
+  SPPermissions: 1f1e6d10e1c3c861b0ab0091f8b3a63ab5d1efd0
+
+PODFILE CHECKSUM: 931d0990c358812c4bc8c7d75e5d0c3611c1468e
+
+COCOAPODS: 1.8.4
